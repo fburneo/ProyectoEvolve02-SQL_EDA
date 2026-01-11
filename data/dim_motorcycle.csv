@@ -1,0 +1,21 @@
+motorcycle_id,plate,brand,model,category,engine_cc,model_year,color,has_gps,status
+1,123BIO,Honda,PCX,scooter,125,2019,White,True,available
+2,123CJP,Honda,PCX,scooter,125,2020,Red,True,available
+3,123DKQ,Honda,PCX,scooter,125,2021,Blue,True,available
+4,123ELR,Honda,PCX,scooter,125,2022,Grey,True,available
+5,123FMS,Honda,PCX,scooter,155,2023,Black,True,available
+6,123GNT,Yamaha,NMAX,scooter,155,2024,White,True,available
+7,123HOU,Yamaha,NMAX,scooter,155,2018,Red,True,available
+8,123IPV,Yamaha,NMAX,scooter,155,2019,Blue,True,available
+9,123JQW,Yamaha,NMAX,scooter,300,2020,Grey,True,available
+10,123KRX,Yamaha,NMAX,scooter,300,2021,Black,True,available
+11,123LSY,Piaggio,Vespa Primavera,scooter,300,2022,White,True,available
+12,123MTZ,Piaggio,Vespa Primavera,scooter,300,2023,Red,True,available
+13,123NUA,Piaggio,Vespa Primavera,manual,500,2024,Blue,True,available
+14,123OVB,Piaggio,Vespa Primavera,manual,500,2018,Grey,True,available
+15,123PWC,Kymco,Agility,manual,500,2019,Black,True,available
+16,123QXD,Kymco,Agility,manual,500,2020,White,True,available
+17,123RYE,Kymco,Agility,manual,313,2021,Red,True,available
+18,123SZF,BMW,G 310 GS,manual,313,2022,Blue,True,available
+19,123TAG,BMW,G 310 GS,manual,313,2023,Grey,True,maintenance
+20,123UBH,BMW,G 310 GS,manual,313,2024,Black,True,available

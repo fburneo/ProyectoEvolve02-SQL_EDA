@@ -1,0 +1,4 @@
+promo_id,code,discount_type,discount_value,description
+1,SUMMER10,percent,10.0,10% descuento verano
+2,WEEKLY25,fixed,25.0,25€ descuento semanal
+3,FRIENDS15,percent,15.0,15% referidos/amigos

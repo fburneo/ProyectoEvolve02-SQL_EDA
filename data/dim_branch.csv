@@ -1,0 +1,6 @@
+branch_id,branch_name,city,province_id,address,timezone
+1,Girona Centro,Girona,1,"C/ Gran Via 10, 17001 Girona",Europe/Madrid
+2,Girona Aeropuerto,Vilobí d'Onyar,1,"Terminal Llegadas, 17185 Girona",Europe/Madrid
+3,Barcelona Sants,Barcelona,2,"Plaça dels Països Catalans, 08014 Barcelona",Europe/Madrid
+4,Valencia Centro,Valencia,4,"C/ Xàtiva 1, 46002 Valencia",Europe/Madrid
+5,Málaga Aeropuerto,Málaga,5,"Av. del Comandante García Morato, 29004 Málaga",Europe/Madrid
